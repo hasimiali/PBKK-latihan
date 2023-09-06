@@ -107,11 +107,6 @@ namespace Calculator_Simple
             textBox5.Text = textBox5.Text + "0";
 
         }
-        private void button1_Click(object sender, EventArgs e)
-        {
-            textBox5.Text = textBox5.Text + "7";
-        }
-
         private void button7_Click(object sender, EventArgs e)
         {
             textBox5.Text = textBox5.Text + "1";
@@ -120,47 +115,6 @@ namespace Calculator_Simple
         private void button8_Click(object sender, EventArgs e)
         {
             textBox5.Text = textBox5.Text + "2";
-        }
-
-        private void buttonC_Click(object sender, EventArgs e)
-        {
-            textBox5.Text = string.Empty;
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button13_Click(object sender, EventArgs e)
-        {
-            textBox5.Text = textBox5.Text + "/";
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button14_Click(object sender, EventArgs e)
-        {
-            textBox5.Text = textBox5.Text + "*";
-        }
-
-        private void button15_Click(object sender, EventArgs e)
-        {
-            textBox5.Text = textBox5.Text + "-";
-        }
-
-        private void button16_Click(object sender, EventArgs e)
-        {
-            textBox5.Text = textBox5.Text + "+";
-        }
-
-        private void button12_Click(object sender, EventArgs e)
-        {
-            float result = EvaluateExpression(textBox5.Text);
-            textBox5.Text = result.ToString();
         }
 
         private void button9_Click(object sender, EventArgs e)
@@ -183,9 +137,9 @@ namespace Calculator_Simple
             textBox5.Text = textBox5.Text + "6";
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            textBox5.Text = textBox5.Text + "9";
+            textBox5.Text = textBox5.Text + "7";
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -193,9 +147,30 @@ namespace Calculator_Simple
             textBox5.Text = textBox5.Text + "8";
         }
 
-        private void textBox5_TextChanged(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
+            textBox5.Text = textBox5.Text + "9";
+        }
 
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            textBox5.Text = textBox5.Text + "+";
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            textBox5.Text = textBox5.Text + "-";
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            textBox5.Text = textBox5.Text + "*";
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            textBox5.Text = textBox5.Text + "/";
         }
 
         private void button10_Click(object sender, EventArgs e)
@@ -207,5 +182,41 @@ namespace Calculator_Simple
         {
             textBox5.Text = textBox5.Text + ")";
         }
+
+
+
+
+
+
+
+        private void buttonC_Click(object sender, EventArgs e)
+        {
+            textBox5.Text = string.Empty;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            float result = EvaluateExpression(textBox5.Text);
+            textBox5.Text = result.ToString();
+        }
+
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

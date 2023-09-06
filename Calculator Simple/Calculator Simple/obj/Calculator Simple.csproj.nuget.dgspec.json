@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliha\\source\\repos\\Calculator Simple\\Calculator Simple\\Calculator Simple.csproj": {}
+    "C:\\Users\\aliha\\OneDrive\\Documents\\Workspace\\Github\\PBKK-latihan-1\\Calculator Simple\\Calculator Simple\\Calculator Simple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliha\\source\\repos\\Calculator Simple\\Calculator Simple\\Calculator Simple.csproj": {
+    "C:\\Users\\aliha\\OneDrive\\Documents\\Workspace\\Github\\PBKK-latihan-1\\Calculator Simple\\Calculator Simple\\Calculator Simple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliha\\source\\repos\\Calculator Simple\\Calculator Simple\\Calculator Simple.csproj",
+        "projectUniqueName": "C:\\Users\\aliha\\OneDrive\\Documents\\Workspace\\Github\\PBKK-latihan-1\\Calculator Simple\\Calculator Simple\\Calculator Simple.csproj",
         "projectName": "Calculator Simple",
-        "projectPath": "C:\\Users\\aliha\\source\\repos\\Calculator Simple\\Calculator Simple\\Calculator Simple.csproj",
+        "projectPath": "C:\\Users\\aliha\\OneDrive\\Documents\\Workspace\\Github\\PBKK-latihan-1\\Calculator Simple\\Calculator Simple\\Calculator Simple.csproj",
         "packagesPath": "C:\\Users\\aliha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliha\\source\\repos\\Calculator Simple\\Calculator Simple\\obj\\",
+        "outputPath": "C:\\Users\\aliha\\OneDrive\\Documents\\Workspace\\Github\\PBKK-latihan-1\\Calculator Simple\\Calculator Simple\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
