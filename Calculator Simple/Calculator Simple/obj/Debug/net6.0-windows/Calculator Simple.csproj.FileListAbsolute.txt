@@ -1,0 +1,16 @@
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\bin\Debug\net6.0-windows\Calculator Simple.exe
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\bin\Debug\net6.0-windows\Calculator Simple.deps.json
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\bin\Debug\net6.0-windows\Calculator Simple.runtimeconfig.json
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\bin\Debug\net6.0-windows\Calculator Simple.dll
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\bin\Debug\net6.0-windows\Calculator Simple.pdb
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator_Simple.Form1.resources
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator Simple.csproj.GenerateResource.cache
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator Simple.AssemblyInfoInputs.cache
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator Simple.AssemblyInfo.cs
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator Simple.csproj.CoreCompileInputs.cache
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator Simple.dll
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\refint\Calculator Simple.dll
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator Simple.pdb
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\Calculator Simple.genruntimeconfig.cache
+C:\Users\aliha\source\repos\Calculator Simple\Calculator Simple\obj\Debug\net6.0-windows\ref\Calculator Simple.dll
