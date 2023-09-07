@@ -1,0 +1,25 @@
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\Video Capture.exe
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\Video Capture.deps.json
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\Video Capture.runtimeconfig.json
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\Video Capture.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\Video Capture.pdb
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video_Capture.Form1.resources
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.AssemblyInfoInputs.cache
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.AssemblyInfo.cs
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.csproj.CopyComplete
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\refint\Video Capture.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.pdb
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\Video Capture.genruntimeconfig.cache
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\obj\Debug\net6.0-windows\ref\Video Capture.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aliha\OneDrive\Documents\Workspace\Github\PBKK-latihan-1\Video Capture\Video Capture\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
